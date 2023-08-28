@@ -1,8 +1,8 @@
 
 
-###óla sou lucas apaixonado por tecnologia ,
+##óla sou lucas apaixonado por tecnologia ,
 ## Desenvolvedor Mobile Flutter e Dart 
-## Cursando Engenharia Mecatrônica
+## Estudante de  Engenharia Mecatrônica
 
 
  
