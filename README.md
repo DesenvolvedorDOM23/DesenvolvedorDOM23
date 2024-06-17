@@ -1,6 +1,5 @@
 
 
-## Óla sou lucas apaixonado por tecnologia ,
 ## Desenvolvedor Mobile Flutter e Dart 
 ## Estudante de  Engenharia de Software
 
@@ -29,7 +28,7 @@
 ### Studying in this moment:
 ![Flutter](https://img.shields.io/badge/-flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117)&nbsp;
 ![Dart](https://img.shields.io/badge/-dart-0D1117?style=for-the-badge&logo=dart&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
